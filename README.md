@@ -14,7 +14,7 @@ and to analyze the consistency between analytical and numerical methods.
 
 This project extends a previous work on market risk simulation using Monte Carlo methods on the SPY ETF:
 
-https://github.com/nicolasmarveaux456-hue/montecarlo-spy-risk
+https://github.com/nicolas-marveaux/montecarlo-spy-risk
 
 While the previous project focused on market risk (VaR, Expected Shortfall),
 this project focuses on derivative pricing.
